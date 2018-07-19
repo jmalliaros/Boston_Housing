@@ -3,7 +3,7 @@
 ## Project: Predicting Boston Housing Prices
 
 ### Install
-
+ 
 This project requires **Python** and the following Python libraries installed:
 
 - [NumPy](http://www.numpy.org/)
